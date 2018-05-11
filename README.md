@@ -1,4 +1,5 @@
 Hello fellow gamers who you know who you are!
+The name of the file which appears in game will be Oroville.
 
 These StardewValley save files are in the directory
 ```
@@ -10,7 +11,7 @@ git clone https://github.com/vosbert/StardewValley.git
 ```
 
 
-For example, the file startup_preferences is at
+For example, the file `startup_preferences` is at
 ```
-C:\Users\vosbe\AppData\Roaming\StardewValley\startup_preferences
+C:\Users\<username>\AppData\Roaming\StardewValley\startup_preferences
 ```
